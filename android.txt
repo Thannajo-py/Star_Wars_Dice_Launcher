@@ -1,3 +1,0 @@
-title=Star
-author=thannajo
-orientation=portrait
